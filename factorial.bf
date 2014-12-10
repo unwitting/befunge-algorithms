@@ -2,4 +2,7 @@
 v  # #<>:90p*
 >90g1-:|
        >$@
-Calculates the factorial of arbitrary input
+Calculates
+the factorial
+of arbitrary
+input
